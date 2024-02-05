@@ -1,0 +1,10 @@
+Dataset,Train sample size,Error distance (90%) mm
+"Arabidopsis (7 DAG, lateral)",50,6.043391647850751
+"Arabidopsis (7 DAG, primary)",8,4.058542049137523
+"Canola (5-13 DAG, lateral)",200,13.43363185547165
+"Canola (5-13 DAG, primary)",10,4.528448405055862
+"Rice (10 DAG, crown)",100,14.983172824393469
+"Rice (3 DAG, crown)",100,6.887477872865853
+"Rice (3 DAG, primary)",10,4.248085367572282
+"Soybean (5-8 DAG, lateral)",50,7.253129029597892
+"Soybean (5-8 DAG, primary)",100,8.514219199588876
